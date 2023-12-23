@@ -8,8 +8,32 @@
 import SwiftUI
 
 struct StacksBootcamp: View {
+    // VStack -> Vertical
+    // HStack -> Horizontal
+    // ZStack -> zIndex (back to front)
+    
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack(spacing: 50) {
+            
+            ZStack {
+                Circle()
+                    .frame(width: 100, height: 100)
+                
+                Text("1")
+                    .font(.title)
+                    .foregroundColor(.white)
+            }//: ZSTACK
+            
+            Text("1")
+                .font(.title)
+                .foregroundColor(.white)
+                .background {
+                    Circle()
+                        .frame(width: 100, height: 100)
+                }
+            
+        }//: VSTACK
     }
 }
 
