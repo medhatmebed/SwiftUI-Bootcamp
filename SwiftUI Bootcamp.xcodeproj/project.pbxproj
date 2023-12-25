@@ -28,6 +28,8 @@
 		8BF621C02B37A5380020A5ED /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621BF2B37A5380020A5ED /* GridBootcamp.swift */; };
 		8BF621C22B37B5800020A5ED /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621C12B37B5800020A5ED /* SafeAreaBootcamp.swift */; };
 		8BF621C42B37B6EB0020A5ED /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621C32B37B6EB0020A5ED /* ButtonsBootcamp.swift */; };
+		8BF621E72B38E22B0020A5ED /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621E62B38E22B0020A5ED /* AnimationBootcamp.swift */; };
+		8BF621E92B38FBE10020A5ED /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621E82B38FBE10020A5ED /* TransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +55,8 @@
 		8BF621BF2B37A5380020A5ED /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		8BF621C12B37B5800020A5ED /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		8BF621C32B37B6EB0020A5ED /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		8BF621E62B38E22B0020A5ED /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		8BF621E82B38FBE10020A5ED /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +108,8 @@
 				8BF621C12B37B5800020A5ED /* SafeAreaBootcamp.swift */,
 				8BF621BF2B37A5380020A5ED /* GridBootcamp.swift */,
 				8BF621C32B37B6EB0020A5ED /* ButtonsBootcamp.swift */,
+				8BF621E62B38E22B0020A5ED /* AnimationBootcamp.swift */,
+				8BF621E82B38FBE10020A5ED /* TransitionBootcamp.swift */,
 				8BF621992B3632F40020A5ED /* Assets.xcassets */,
 				8BF6219B2B3632F40020A5ED /* Preview Content */,
 			);
@@ -191,8 +197,10 @@
 				8BF621AA2B36614D0020A5ED /* GradientsBootcamp.swift in Sources */,
 				8BF621A82B36583D0020A5ED /* ColorsBootcamp.swift in Sources */,
 				8BF621BE2B37906D0020A5ED /* ScrollViewBootcamp.swift in Sources */,
+				8BF621E72B38E22B0020A5ED /* AnimationBootcamp.swift in Sources */,
 				8BF621AE2B366DD80020A5ED /* ImagesBootcamp.swift in Sources */,
 				8BF621B02B3699790020A5ED /* FramesBootcamp.swift in Sources */,
+				8BF621E92B38FBE10020A5ED /* TransitionBootcamp.swift in Sources */,
 				8BF621BA2B377B940020A5ED /* SpacerBootcamp.swift in Sources */,
 				8BF621B22B36A5270020A5ED /* BackgroundsBootcamp.swift in Sources */,
 				8BF621B42B36A5F10020A5ED /* OverlaysBootcamp.swift in Sources */,
