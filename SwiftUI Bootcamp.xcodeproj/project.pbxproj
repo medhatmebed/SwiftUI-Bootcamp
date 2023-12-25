@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8BDE083C2B3A4731006DA75A /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */; };
 		8BF621962B3632F20020A5ED /* SwiftUI_BootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621952B3632F20020A5ED /* SwiftUI_BootcampApp.swift */; };
 		8BF621982B3632F20020A5ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621972B3632F20020A5ED /* ContentView.swift */; };
 		8BF6219A2B3632F40020A5ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BF621992B3632F40020A5ED /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		8BF621922B3632F20020A5ED /* SwiftUI Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF621952B3632F20020A5ED /* SwiftUI_BootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampApp.swift; sourceTree = "<group>"; };
 		8BF621972B3632F20020A5ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -110,6 +112,7 @@
 				8BF621C32B37B6EB0020A5ED /* ButtonsBootcamp.swift */,
 				8BF621E62B38E22B0020A5ED /* AnimationBootcamp.swift */,
 				8BF621E82B38FBE10020A5ED /* TransitionBootcamp.swift */,
+				8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */,
 				8BF621992B3632F40020A5ED /* Assets.xcassets */,
 				8BF6219B2B3632F40020A5ED /* Preview Content */,
 			);
@@ -204,6 +207,7 @@
 				8BF621BA2B377B940020A5ED /* SpacerBootcamp.swift in Sources */,
 				8BF621B22B36A5270020A5ED /* BackgroundsBootcamp.swift in Sources */,
 				8BF621B42B36A5F10020A5ED /* OverlaysBootcamp.swift in Sources */,
+				8BDE083C2B3A4731006DA75A /* SheetsBootcamp.swift in Sources */,
 				8BF621C42B37B6EB0020A5ED /* ButtonsBootcamp.swift in Sources */,
 				8BF621C22B37B5800020A5ED /* SafeAreaBootcamp.swift in Sources */,
 				8BF621A62B363F2B0020A5ED /* ShapesBootcamp.swift in Sources */,
