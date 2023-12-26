@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		8BDE083C2B3A4731006DA75A /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */; };
+		8BDE083E2B3A4E2F006DA75A /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083D2B3A4E2F006DA75A /* PopoverBootcamp.swift */; };
+		8BDE08402B3A55CE006DA75A /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083F2B3A55CE006DA75A /* NavigationViewBootcamp.swift */; };
 		8BF621962B3632F20020A5ED /* SwiftUI_BootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621952B3632F20020A5ED /* SwiftUI_BootcampApp.swift */; };
 		8BF621982B3632F20020A5ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621972B3632F20020A5ED /* ContentView.swift */; };
 		8BF6219A2B3632F40020A5ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BF621992B3632F40020A5ED /* Assets.xcassets */; };
@@ -35,6 +37,8 @@
 
 /* Begin PBXFileReference section */
 		8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
+		8BDE083D2B3A4E2F006DA75A /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		8BDE083F2B3A55CE006DA75A /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		8BF621922B3632F20020A5ED /* SwiftUI Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF621952B3632F20020A5ED /* SwiftUI_BootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampApp.swift; sourceTree = "<group>"; };
 		8BF621972B3632F20020A5ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +117,8 @@
 				8BF621E62B38E22B0020A5ED /* AnimationBootcamp.swift */,
 				8BF621E82B38FBE10020A5ED /* TransitionBootcamp.swift */,
 				8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */,
+				8BDE083D2B3A4E2F006DA75A /* PopoverBootcamp.swift */,
+				8BDE083F2B3A55CE006DA75A /* NavigationViewBootcamp.swift */,
 				8BF621992B3632F40020A5ED /* Assets.xcassets */,
 				8BF6219B2B3632F40020A5ED /* Preview Content */,
 			);
@@ -219,6 +225,8 @@
 				8BF621C02B37A5380020A5ED /* GridBootcamp.swift in Sources */,
 				8BF621B82B36B57D0020A5ED /* PaddingBootcamo.swift in Sources */,
 				8BF621AC2B3665030020A5ED /* IconsBootcamp.swift in Sources */,
+				8BDE083E2B3A4E2F006DA75A /* PopoverBootcamp.swift in Sources */,
+				8BDE08402B3A55CE006DA75A /* NavigationViewBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
