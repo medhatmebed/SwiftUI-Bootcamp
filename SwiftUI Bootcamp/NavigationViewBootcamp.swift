@@ -10,7 +10,7 @@ import SwiftUI
 struct NavigationViewBootcamp: View {
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ScrollView {
                 NavigationLink("Hello, world!", destination: MyOtherScreen())
                 

@@ -10,6 +10,8 @@
 		8BDE083C2B3A4731006DA75A /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */; };
 		8BDE083E2B3A4E2F006DA75A /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083D2B3A4E2F006DA75A /* PopoverBootcamp.swift */; };
 		8BDE08402B3A55CE006DA75A /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE083F2B3A55CE006DA75A /* NavigationViewBootcamp.swift */; };
+		8BDE08422B3A5F71006DA75A /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE08412B3A5F71006DA75A /* ListBootcamp.swift */; };
+		8BDE08442B3A6DBA006DA75A /* AlertsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BDE08432B3A6DBA006DA75A /* AlertsBootcamp.swift */; };
 		8BF621962B3632F20020A5ED /* SwiftUI_BootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621952B3632F20020A5ED /* SwiftUI_BootcampApp.swift */; };
 		8BF621982B3632F20020A5ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF621972B3632F20020A5ED /* ContentView.swift */; };
 		8BF6219A2B3632F40020A5ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BF621992B3632F40020A5ED /* Assets.xcassets */; };
@@ -39,6 +41,8 @@
 		8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		8BDE083D2B3A4E2F006DA75A /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		8BDE083F2B3A55CE006DA75A /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
+		8BDE08412B3A5F71006DA75A /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		8BDE08432B3A6DBA006DA75A /* AlertsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsBootcamp.swift; sourceTree = "<group>"; };
 		8BF621922B3632F20020A5ED /* SwiftUI Bootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Bootcamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF621952B3632F20020A5ED /* SwiftUI_BootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_BootcampApp.swift; sourceTree = "<group>"; };
 		8BF621972B3632F20020A5ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -119,6 +123,8 @@
 				8BDE083B2B3A4731006DA75A /* SheetsBootcamp.swift */,
 				8BDE083D2B3A4E2F006DA75A /* PopoverBootcamp.swift */,
 				8BDE083F2B3A55CE006DA75A /* NavigationViewBootcamp.swift */,
+				8BDE08412B3A5F71006DA75A /* ListBootcamp.swift */,
+				8BDE08432B3A6DBA006DA75A /* AlertsBootcamp.swift */,
 				8BF621992B3632F40020A5ED /* Assets.xcassets */,
 				8BF6219B2B3632F40020A5ED /* Preview Content */,
 			);
@@ -206,6 +212,7 @@
 				8BF621AA2B36614D0020A5ED /* GradientsBootcamp.swift in Sources */,
 				8BF621A82B36583D0020A5ED /* ColorsBootcamp.swift in Sources */,
 				8BF621BE2B37906D0020A5ED /* ScrollViewBootcamp.swift in Sources */,
+				8BDE08442B3A6DBA006DA75A /* AlertsBootcamp.swift in Sources */,
 				8BF621E72B38E22B0020A5ED /* AnimationBootcamp.swift in Sources */,
 				8BF621AE2B366DD80020A5ED /* ImagesBootcamp.swift in Sources */,
 				8BF621B02B3699790020A5ED /* FramesBootcamp.swift in Sources */,
@@ -218,6 +225,7 @@
 				8BF621C22B37B5800020A5ED /* SafeAreaBootcamp.swift in Sources */,
 				8BF621A62B363F2B0020A5ED /* ShapesBootcamp.swift in Sources */,
 				8BF621BC2B378B8D0020A5ED /* ForEachBootcamp.swift in Sources */,
+				8BDE08422B3A5F71006DA75A /* ListBootcamp.swift in Sources */,
 				8BF621982B3632F20020A5ED /* ContentView.swift in Sources */,
 				8BF621A42B3638710020A5ED /* TextBootcamp.swift in Sources */,
 				8BF621B62B36B1390020A5ED /* StacksBootcamp.swift in Sources */,
