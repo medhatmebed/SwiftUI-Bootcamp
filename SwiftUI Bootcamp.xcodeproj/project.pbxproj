@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B1600522B3CDC6B00D3ECF6 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B1600512B3CDC6B00D3ECF6 /* OnAppearBootcamp.swift */; };
+		8B1600542B3CE35900D3ECF6 /* TabGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B1600532B3CE35900D3ECF6 /* TabGestureBootcamp.swift */; };
+		8B1600562B3CF1F800D3ECF6 /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B1600552B3CF1F800D3ECF6 /* ModelBootcamp.swift */; };
 		8B990ECD2B3BF96900C5B238 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B990ECC2B3BF96900C5B238 /* TabViewBootcamp.swift */; };
 		8BB8C7512B3BA7B10070D406 /* TextFieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB8C7502B3BA7B10070D406 /* TextFieldBootcamp.swift */; };
 		8BB8C7532B3BAD240070D406 /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BB8C7522B3BAD240070D406 /* TextEditorBootcamp.swift */; };
@@ -46,6 +49,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B1600512B3CDC6B00D3ECF6 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		8B1600532B3CE35900D3ECF6 /* TabGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabGestureBootcamp.swift; sourceTree = "<group>"; };
+		8B1600552B3CF1F800D3ECF6 /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
 		8B990ECC2B3BF96900C5B238 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		8BB8C7502B3BA7B10070D406 /* TextFieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBootcamp.swift; sourceTree = "<group>"; };
 		8BB8C7522B3BAD240070D406 /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
@@ -149,6 +155,9 @@
 				8BB8C7582B3BC2060070D406 /* StepperBootcamp.swift */,
 				8BB8C75A2B3BC5AA0070D406 /* SliderBootcamp.swift */,
 				8B990ECC2B3BF96900C5B238 /* TabViewBootcamp.swift */,
+				8B1600512B3CDC6B00D3ECF6 /* OnAppearBootcamp.swift */,
+				8B1600532B3CE35900D3ECF6 /* TabGestureBootcamp.swift */,
+				8B1600552B3CF1F800D3ECF6 /* ModelBootcamp.swift */,
 				8BF621992B3632F40020A5ED /* Assets.xcassets */,
 				8BF6219B2B3632F40020A5ED /* Preview Content */,
 			);
@@ -239,8 +248,10 @@
 				8BF621AA2B36614D0020A5ED /* GradientsBootcamp.swift in Sources */,
 				8BF621A82B36583D0020A5ED /* ColorsBootcamp.swift in Sources */,
 				8BB8C7552B3BBB0D0070D406 /* PickerBootcamp.swift in Sources */,
+				8B1600542B3CE35900D3ECF6 /* TabGestureBootcamp.swift in Sources */,
 				8BF621BE2B37906D0020A5ED /* ScrollViewBootcamp.swift in Sources */,
 				8BDE08442B3A6DBA006DA75A /* AlertsBootcamp.swift in Sources */,
+				8B1600562B3CF1F800D3ECF6 /* ModelBootcamp.swift in Sources */,
 				8BB8C7592B3BC2060070D406 /* StepperBootcamp.swift in Sources */,
 				8BB8C75B2B3BC5AA0070D406 /* SliderBootcamp.swift in Sources */,
 				8BF621E72B38E22B0020A5ED /* AnimationBootcamp.swift in Sources */,
@@ -261,6 +272,7 @@
 				8BF621982B3632F20020A5ED /* ContentView.swift in Sources */,
 				8BF621A42B3638710020A5ED /* TextBootcamp.swift in Sources */,
 				8BF621B62B36B1390020A5ED /* StacksBootcamp.swift in Sources */,
+				8B1600522B3CDC6B00D3ECF6 /* OnAppearBootcamp.swift in Sources */,
 				8BF621962B3632F20020A5ED /* SwiftUI_BootcampApp.swift in Sources */,
 				8BF621C02B37A5380020A5ED /* GridBootcamp.swift in Sources */,
 				8BF621B82B36B57D0020A5ED /* PaddingBootcamo.swift in Sources */,
