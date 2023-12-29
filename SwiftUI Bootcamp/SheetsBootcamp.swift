@@ -32,17 +32,17 @@ struct SheetsBootcamp: View {
 //                        showSheet.toggle()
 //                    }
 //                }
-//                //.presentationDetents([.medium])
+                .presentationDetents([.medium])
 //                 .frame(maxWidth: .infinity, maxHeight: .infinity)
 //                 .background(.yellow)
-//            }
-//            .sheet(isPresented: $showSheet) {
-//             //   SecondScreen(showSheet: $showSheet)
-//                SecondScreen()
-//            }
-            .fullScreenCover(isPresented: $showSheet) {
+        
+            .sheet(isPresented: $showSheet) {
+             //   SecondScreen(showSheet: $showSheet)
                 SecondScreen()
             }
+//            .fullScreenCover(isPresented: $showSheet) {
+//                SecondScreen()
+//            }
 
         }
         
