@@ -30,7 +30,7 @@ struct NavigationViewBootcamp: View {
                         .tint(.red)
                 })
             )
-           // .accentColor(.red)
+            .accentColor(.red)
         }
         
     }
